@@ -1,3 +1,14 @@
+## How To Run Laravel + Filament?
+
+1. Run your Laragon Wamp/Mamp or Xampp
+2. Open project in Vscode run Ctrl+` and Php artisan serve
+3. U must create acc with terminal
+4. php artisan make:filament-user
+5. Create acc and go to laravel point http://127.0.0.1:8000/admin/login
+6. Enjoy Cihuyyyyyy
+7. dont forgot u should setinggs env and migrate
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
